@@ -14,7 +14,7 @@ MinervaProject é um grupo de subprojetos desenvolvidos na matéria de Eletrôni
 
 * [Allex Lima](http://allexlima.com)
 * [Daniel Bispo](https://github.com/danielbispov/)
-* [Heryck Michael] (https://github.com/heryckmichael)
+* [Heryck Michael](https://github.com/heryckmichael)
 * [Paulo Moraes](http://www.moraespaulo.com/)
 * [Renan Barroncas](https://github.com/renanbarroncas)
 
